@@ -3,7 +3,7 @@ const $$ = document.querySelectorAll.bind(document);
 const initData = [
   {
     id: 0,
-    username: "nguyenan",
+    username: "nguyenvan",
     fullname: "An",
     email: "annguyen@gmail.com",
     workingDay: 12,
